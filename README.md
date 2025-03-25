@@ -1,6 +1,6 @@
-# Number-to-Word Converter developed during 42 School's Piscine
+# Number-to-Word Converter
 
-This tool takes a numeric input (e.g., "40") and returns its textual form (e.g., "forty"). It uses a dictionary file to map numbers to their word equivalents and handles various number formats, from single digits to large numbers.
+This tool, developed during 42 School's Piscine, takes a numeric input (e.g., "40") and returns its textual form (e.g., "forty"). It uses a dictionary file to map numbers to their word equivalents and handles various number formats, from single digits to large numbers.
 
 ## Files and Main Functionality
 
